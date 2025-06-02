@@ -1,6 +1,6 @@
 # Hi there, I'm Aksh Thakkar! 👋
 
-I'm a 3rd-year B.Tech. student in Computer Engineering at Parul University (Batch of 2027).  
+I'm a 3rd-year B.Tech. Student in Computer Engineering at Parul University (Batch of 2027).  
 I'm passionate about technology and currently exploring various domains in computer science.  
 I’m focused on building strong fundamentals through hands-on learning, projects, and continuous skill development.
 
