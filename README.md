@@ -10,7 +10,7 @@ I’m focused on building strong fundamentals through hands-on learning, project
 - Web Development
 
 ## 🌱 Currently Learning
-Exploring new areas in computer science and working on personal projects to deepen my knowledge.
+I'm doing DSA (Data Structures & Algorithms) and also exploring new stuff in tech.
 
 ## 📫 Connect with Me
 
