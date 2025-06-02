@@ -25,7 +25,6 @@ Exploring new areas in computer science and working on personal projects to deep
 <a href="https://www.hackerrank.com/aksht455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aksht455" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/akshthakkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="akshthakkar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akshthakkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshthakkar" height="30" width="40" /></a>
-<a href="https://discord.gg/sarcasticaksh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sarcasticaksh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
